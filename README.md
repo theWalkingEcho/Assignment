@@ -5,8 +5,9 @@ It includes 2 tasks that have been completed.
 ## Prerequisites
 1. Download the files through Github. Ensure you download the CSV files as well.
 2. Open it in Jupyter Notebook.
-3. Install the required libraries - numpy matplotlib mlxtend
+3. Install the required libraries - numpy, matplotlib, mlxtend
 4. And then you can run each cell and view the output.
+5. Further instructions are available in the .ipynb files
 
 
 ## Task 1
