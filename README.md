@@ -2,6 +2,13 @@
 
 It includes 2 tasks that have been completed.
 
+## Prerequisites
+1. Download the files through Github. Ensure you download the CSV files as well.
+2. Open it in Jupyter Notebook.
+3. Install the required libraries - numpy matplotlib mlxtend
+4. And then you can run each cell and view the output.
+
+
 ## Task 1
 1. Clean, prepare and transform the dataset for analysis.
 2. Perform Exploratory Data Analysis on the data to understand what insights can be achieved.
@@ -15,10 +22,3 @@ It includes 2 tasks that have been completed.
 2. Define the action, reward and penalty for the agent.
 3. Train the agent.
 4. View the output.
-
-
-## Prerequisites
-1. Download the files through Github.
-2. Open it in Jupyter Notebook.
-3. Install the required libraries - numpy matplotlib mlxtend
-4. And then you can run each cell and view the output.
