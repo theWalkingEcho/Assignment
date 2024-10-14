@@ -15,3 +15,9 @@ It includes 2 tasks that have been completed.
 2. Define the action, reward, punishment and for the agent.
 3. Train the agent.
 4. View the output.
+
+#### Prerequisites
+1. Download the files through Github.
+2. Open it in Jupyter Notebook.
+3. Install the required libraries - numpy matplotlib
+4. And then you can run each cell and view the output.
